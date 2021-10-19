@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manojnathyogi
 - 👀 I’m interested in webpage designing and programming programs for that solves High School Computer Science Students' questions. 
-- 🌱 I’m currently learning Python and different libraries.
-- 💞️ I’m looking to collaborate on 
+- 💞️ 🌱 I’m currently learning Python and different libraries.
+
 - 📫 You can reach me by Facebook messenger (Manoj Nath Yogi).
 
 <!---
